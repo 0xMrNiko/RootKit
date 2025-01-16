@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="space.png" width="75%"><br><br>
+  <img src="space.png" width="90%"><br><br>
 </div><br>
 
 # RootKit
