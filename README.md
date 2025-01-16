@@ -17,8 +17,6 @@ This repository contains **Loadable Kernel Modules (LKM)** and **LD_PRELOAD-base
 
 ---
 
----
-
 ## Disclaimer
 
 **This repository is for educational and research purposes only.**  
