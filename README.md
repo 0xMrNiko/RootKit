@@ -13,7 +13,7 @@ This repository contains **Loadable Kernel Modules (LKM)** and **LD_PRELOAD-base
 
 | **No.** | **LKM Modules**                             | **LD_PRELOAD Modules**                        |
 |---------|---------------------------------------------|-----------------------------------------------|
-| 1       | [Logger](./lkm/logger.c)                    | [Logger](./ld_preload/logger.c)               |
+| 1       | [Logger](https://github.com/0xMrNiko/RootKit/tree/main/lkm/logger) | [Logger](https://github.com/0xMrNiko/RootKit/tree/main/LD_Preload/logger)|
 
 ---
 
