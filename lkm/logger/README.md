@@ -34,6 +34,11 @@ To install the Logger LKM, follow these steps:
     ```bash
     dmesg | grep logger
     ```
+    
+5. To remove the module:
+    ```bash
+    rmmod logger
+    ```
 
 ## Usage
 
