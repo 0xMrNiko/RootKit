@@ -1,6 +1,6 @@
 <div align="center">
   <img src="space.png" width="90%"><br><br>
-  <h2>Rootkit</h2>
+  <h2>Linux Rootkit</h2>
 </div><br>
 
 ## Description
