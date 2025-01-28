@@ -30,6 +30,16 @@ The module works by overriding the `readdir` and `readdir64` functions using the
 
     You should see `/lib/libprochide.so` listed in the output.
 
+## Testing
+
+To test the module, you can change the GID of a process to the hidden GID and observe that it becomes hidden:
+
+```sh
+python3 -c 'import os; os.setgid(1001); os.system("/bin/bash")'
+```
+
+This command will start a new bash shell with the GID set to 1001. Any processes started from this shell will have the hidden GID.
+
 ## Uninstallation
 
 1. **Remove the shared library from `/etc/ld.so.preload`:**
