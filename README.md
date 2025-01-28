@@ -15,6 +15,7 @@ This repository contains **Loadable Kernel Modules (LKM)** and **LD_PRELOAD-base
 |---------|---------------------------------------------|-----------------------------------------------|
 | 1       | [Logger](https://github.com/0xMrNiko/RootKit/tree/main/lkm/logger) | [Logger](https://github.com/0xMrNiko/RootKit/tree/main/LD_Preload/logger)|
 | 2       |  | [SocketLogger](https://github.com/0xMrNiko/RootKit/tree/main/LD_Preload/socketlogger)|
+| 3       |  | [LibProchide](https://github.com/0xMrNiko/RootKit/tree/main/LD_Preload/libprochide)|
 
 ---
 
